@@ -8,3 +8,5 @@ Kotlin-библиотека для работы с API LRCLIB.
 ВАЖНО: При создании клиента библиотеки, желательно указывать осмысленный User-Agent
 
 ОЧЕНЬ ВАЖНО: В httpClient указывайте json → ignoreUnknownKeys = true
+
+(Из-за моей ошибки в названии репозитория теперь ссылка на jitpack выглядит так - https://jitpack.io/#Wirye/lrclibkt-kt/1.0.0)
