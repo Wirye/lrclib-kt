@@ -6,7 +6,7 @@ import kotlin.test.Test
 import kotlin.test.assertTrue
 
 class RealApiIntegrationTest {
-    private val client = LrclibClient()
+    private val client = LrclibClient("LrclibKtLibary/1.0.1 ( https://github.com/Wirye/lrclib-kt )")
 
     @Test
     fun `search by meta`() = runTest {

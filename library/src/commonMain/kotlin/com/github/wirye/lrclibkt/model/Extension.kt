@@ -17,7 +17,7 @@ fun decipherSyncedLyrics(syncedLyrics: String): List<Pair<Duration, String>> {
     return res
 }
 
-fun String.toDuration(): Duration {
+private fun String.toDuration(): Duration {
     val parts = this.split(":")
     return when (parts.size) {
         2 -> {
