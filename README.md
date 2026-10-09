@@ -32,7 +32,7 @@ client.search.searchById(33510328)
 Клиент создаётся один раз. В нём:
 
 - `client.search` - поиск
-- Также есть функция decipherSyncedLyrics для автоматической расшифровки синхронизированных текстов в понятный List<Pair<Duration, String>>
+- Также есть функция `decipherSyncedLyrics` для автоматической расшифровки синхронизированных текстов в понятный `List<Pair<Duration, String>>`
 
 ## Ошибки
 
