@@ -15,7 +15,7 @@ dependencyResolutionManagement {
 
 // build.gradle.kts
 dependencies {
-    implementation("com.github.Wirye:lrclibkt-kt:1.0.1")
+    implementation("com.github.Wirye.lrclibkt-kt:lrclibkt-kt:1.0.1")
 }
 ```
 
